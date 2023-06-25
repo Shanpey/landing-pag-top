@@ -105,6 +105,25 @@ main h2 {
     border-radius: 20px;
 }
 
+.quotation {
+    background-color:#e5e7eb;
+    padding: 80px 280px;
+}
+
+.text-quotation {
+    font-size: 36px;
+    font-weight: light;
+    font-style: italic;
+    color: #1F2937;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+.author-quotation {
+    font-weight: bold;
+    font-size: 24px;
+    text-align: end;
+}
 
 
 

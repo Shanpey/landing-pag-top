@@ -60,7 +60,7 @@ a,
 }
 
 .text-content {
-    margin: 6px 0;;
+    margin: 6px 0;
 }
 
 
@@ -71,6 +71,38 @@ button {
     border-radius: 6px;
     color: #f9faf8;
     font-weight: 800;
+}
+
+.extra-information {
+    text-align: center;
+}
+
+main h2 {
+    font-size: 36px;
+    font-weight: extra-bold;
+    color: #1F2937;
+    margin: 30px 0;
+}
+
+.container-boxes {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.container-box{
+    display: flex;
+    width: 150px;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 80px;
+}
+
+.box {
+    border: #3882f6 solid 4px;
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
 }
 
 

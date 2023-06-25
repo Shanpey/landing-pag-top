@@ -6,7 +6,7 @@
 
 header {
     background-color: #1F2937;
-    padding: 15px 40px;
+    padding: 15px 100px;
 }
 
 .top-line {
@@ -125,6 +125,35 @@ main h2 {
     text-align: end;
 }
 
+.container-action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 120px;
+}
+
+.box-action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    width: 800px;
+    padding: 30px 80px;
+    border-radius: 15px;
+}
+
+.text-action p {
+    color:#e5e7eb;
+}
+
+.call-action {
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.button-action {
+    border:#e5e7eb solid 2px;
+}
 
 
 
